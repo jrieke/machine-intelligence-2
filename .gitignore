@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 .DS_STORE
+.idea
 *.pyc
 
 *_local*
